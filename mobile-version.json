@@ -3,7 +3,7 @@
   "latestVersion": "1.3.0",
 
   // none | optional | force
-  "updateType": "optional",
+  "updateType": "force",
 
   "storeUrlAndroid": "https://play.google.com/store/apps/details?id=com.seninpaketadi",
   "storeUrliOS": "https://apps.apple.com/app/idXXXXXXXXX",
