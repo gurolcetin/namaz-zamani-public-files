@@ -1,9 +1,9 @@
 {
-  "minSupportedVersion": "1.1.1",
+  "minSupportedVersion": "1.0.8",
   "latestVersion": "1.3.0",
 
   // none | optional | force
-  "updateType": "force",
+  "updateType": "optional",
 
   "storeUrlAndroid": "https://play.google.com/store/apps/details?id=com.gmsac.namazdefteri",
   "storeUrliOS": "https://apps.apple.com/us/app/namaz-defteri/id6770114616",
