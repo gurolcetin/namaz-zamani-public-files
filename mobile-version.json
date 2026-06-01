@@ -1,6 +1,6 @@
 {
   "minSupportedVersion": "1.0.8",
-  "latestVersion": "1.3.0",
+  "latestVersion": "1.0.8",
 
   // none | optional | force
   "updateType": "optional",
