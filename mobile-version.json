@@ -3,7 +3,7 @@
   "latestVersion": "1.0.7",
 
   // none | optional | force
-  "updateType": "optional",
+  "updateType": "none",
 
   "storeUrlAndroid": "https://play.google.com/store/apps/details?id=com.gmsac.namazdefteri",
   "storeUrliOS": "https://apps.apple.com/us/app/namaz-defteri/id6770114616",
